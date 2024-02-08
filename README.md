@@ -1,0 +1,2 @@
+# miniStoreDemo
+magazin 
